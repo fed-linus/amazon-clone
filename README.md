@@ -38,7 +38,8 @@ amazon-clone/
 │       ├── search-icon.png
 │       └── cart-icon.png
 ├── scripts/
-│   └── amazon.js
+│   ├── amazon.js
+│   └── checkout.js
 ├── styles/
 │   ├── shared/
 │   │   ├── general.css
