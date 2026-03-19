@@ -1,6 +1,6 @@
 **Amazon Clone**
 
-A simplified front-end clone of Amazon built using HTML, CSS, and JavaScript. This project demonstrates a responsive e-commerce layout with a header, search bar, product grid, and cart functionality.
+A simplified front-end clone of Amazon built using HTML, CSS, and JavaScript. This project demonstrates a responsive e-commerce layout with a header, search bar, product grid, and cart functionality. You can visit the page live at [Amazon Clone](https://linus9426.github.io/amazon-clone/)
 
 ---
 
