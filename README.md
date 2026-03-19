@@ -27,24 +27,24 @@ A simplified front-end clone of Amazon built using HTML, CSS, and JavaScript. Th
 **File Structure**
 ```
 amazon-clone/
-├── checkout.html
 ├── index.html
+├── checkout.html
 ├── orders.html
 ├── tracking.html
 ├── images/
-│ ├── amazon-logo-white.png
-│ ├── amazon-mobile-logo-white.png
-│ └── icons/
-│ ├── search-icon.png
-│ └── cart-icon.png
+│   ├── amazon-logo-white.png
+│   ├── amazon-mobile-logo-white.png
+│   └── icons/
+│       ├── search-icon.png
+│       └── cart-icon.png
 ├── scripts/
-│ └── amazon.js
+│   └── amazon.js
 ├── styles/
-│ ├── shared/
-│ │ ├── general.css
-│ │ └── amazon-header.css
-│ └── pages/
-│ └── amazon.css
+│   ├── shared/
+│   │   ├── general.css
+│   │   └── amazon-header.css
+│   └── pages/
+│       └── amazon.css
 ├── .gitattributes
 └── README.md
 ```
